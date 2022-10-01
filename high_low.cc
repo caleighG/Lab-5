@@ -14,8 +14,8 @@ int main()
     
     //DEFINING VARIABLES
     int end_loop = -100; //This values ends the loop
-    double user_input;
-    double highest_high;
+    double user_input; 
+    double highest_high; 
     double lowest_low;
     int i = 0; //Counter variable
 
